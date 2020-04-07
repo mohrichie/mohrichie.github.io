@@ -131,10 +131,12 @@ header a: hover{
 
 	#boxes{
 		margin-top: 20px;
-
+		
 	}
 
 	 #boxes .box{
+	 	display: flex;
+		flex-wrap: wrap;
 	 	float: left;
 	 	width: 30%;
 		padding: 10px;
