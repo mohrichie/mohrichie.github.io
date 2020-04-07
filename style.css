@@ -104,7 +104,7 @@ header a: hover{
 	#newsletter{
 		align-items: center;
 		display: flex;
-		
+		text-align: center;
 		padding: 15px;
 		color: #ffffff;
 		background: #35424a; 
