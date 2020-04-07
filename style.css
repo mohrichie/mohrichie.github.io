@@ -115,7 +115,8 @@ header a: hover{
 		align-items: center;
 		display: flex ;
 		flex-wrap: wrap;
-		text-align: center;
+		align-items: center;
+    justify-content: center;
 	}
 	
 	#newsletter h1{
