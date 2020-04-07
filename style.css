@@ -93,6 +93,8 @@ header a: hover{
 
 	}
 	#newsletter{
+		display: flex;
+		margin: 0;
 		padding: 15px;
 		color: #ffffff;
 		background: #35424a; 
