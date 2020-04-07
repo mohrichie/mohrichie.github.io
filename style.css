@@ -6,9 +6,12 @@ body{
 }
 
 .container{
+	display: flex;
 	width: 80%;
 	margin: auto;
 	overflow: hidden;
+	align-items: center;
+    justify-content: center;
 }
 ul{
 	padding:0;
