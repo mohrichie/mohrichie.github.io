@@ -6,7 +6,8 @@ body{
 	}
 
 .container{
-	display: flex flex-wrap;
+	display: flex; 
+	flex-wrap:wrap;
 	
 	margin: auto;
 	overflow: hidden;
@@ -135,8 +136,7 @@ header a: hover{
 	}
 
 	 #boxes .box{
-	 	display: flex;
-		flex-wrap: wrap;
+	 	
 	 	float: left;
 	 	width: 30%;
 		padding: 10px;
