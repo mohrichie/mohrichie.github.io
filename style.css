@@ -93,6 +93,7 @@ header a: hover{
 
 	}
 	#newsletter{
+		align-items: center;
 		display: flex;
 		margin: 0;
 		padding: 15px;
@@ -102,6 +103,7 @@ header a: hover{
 	
 	#newsletter h1{
 		float: left;
+
 	}
 
 	#newsletter form{
