@@ -7,7 +7,6 @@ body{
 
 .container{
 	display: flex;
-	width: 80%;
 	margin: auto;
 	overflow: hidden;
 	align-items: center;
@@ -70,9 +69,12 @@ header a: hover{
 
 #showcase{
 	min-height: 400px;
-	background: url(./img/img4.jpg) 0 -200px;
-	background-repeat: no-repeat;
+	background: url(./img/img4.jpg) no-repeat center center fixed;
 	text-align: center;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 #showcase p{
 		color: #FF0000;
