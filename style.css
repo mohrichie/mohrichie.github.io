@@ -96,13 +96,14 @@ header a: hover{
 		align-items: center;
 		display: flex;
 		
-		
+		padding: 15px;
 		color: #ffffff;
 		background: #35424a; 
 	}
 	
 	#newsletter h1{
 		float: left;
+		padding: 10px;
 
 	}
 
