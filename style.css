@@ -93,14 +93,14 @@ header a: hover{
 		color: #f90813fa;
 
 	}
-	
+	/*
 	@media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.5em;
         padding: 0;
     }
 }
-
+*/
 	#newsletter{
 		align-items: center;
 		display: flex;
